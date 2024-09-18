@@ -1,0 +1,70 @@
+.h1 {
+  font-weight: bold;
+  font-style: italic;
+  background-color: antiquewhite;
+  font-size: 42px;
+  text-align: center;
+}
+.p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.we {
+  text-decoration: underline;
+}
+.you {
+  text-decoration: line-through;
+}
+.h2 {
+  text-shadow: 0 0 12px gray;
+}
+.q {
+  line-height: 20px;
+  color: rosybrown;
+}
+.cer {
+  font-size: 29px;
+  text-shadow: 0 0 12px;
+}
+.orrange {
+  color: orange;
+  font-size: 18px;
+}
+.block {
+  background-color: orangered;
+  width: 100px;
+  height: 100px;
+  color: orangered;
+}
+.ali {
+  color: purple;
+  font-size: 18px;
+}
+.ew {
+  height: 100px;
+  width: 100px;
+  background-color: purple;
+  border-radius: 50px;
+}
+.button {
+  font-size: 39px;
+  text-shadow: 0 0 1rem;
+  font-weight: bold;
+}
+.class p {
+  font-size: 20px;
+  font-weight: bold;
+}
+button {
+  font-size: 25px;
+  color: white;
+  background-color: blueviolet;
+}
+.hovered:hover {
+  background-color: aqua;
+}
+.active:active {
+  background-color: blue;
+}
+.default:focus {
+  background-color: sienna;
+}
